@@ -1,0 +1,10 @@
+{
+  "name": "칭찬 일기",
+  "short_name": "칭찬일기",
+  "description": "매일 칭찬하고 기록하는 우리 아이 성장 칭찬 앱",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF7F0",
+  "theme_color": "#FF7B54",
+  "orientation": "portrait"
+}
